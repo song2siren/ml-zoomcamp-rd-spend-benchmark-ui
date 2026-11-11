@@ -1,5 +1,7 @@
 # Expected R&D Spend Benchmark: web app
 
+**Live app:** https://rd-spend-benchmark.streamlit.app
+
 A simple web form for the [Expected R&D Spend Benchmark](https://github.com/song2siren/ml-zoomcamp-rd-spend-benchmark), my midterm project for the DataTalksClub [Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp).
 
 Enter a company's figures (sales, employees, capex, profit, sector and country) and the app estimates the R&D spend expected for a company with that profile. Optionally, enter a reported R&D figure to see whether it looks typical, unusually high or unusually low.
